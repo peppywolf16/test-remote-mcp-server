@@ -1,0 +1,112 @@
+{
+  "food": [
+    "groceries",
+    "fruits_vegetables",
+    "dairy_bakery",
+    "dining_out",
+    "coffee_tea",
+    "snacks",
+    "delivery_fees",
+    "other"
+  ],
+  "transport": [
+    "public_transit",
+    "cab_rides",
+    "fuel",
+    "parking",
+    "vehicle_maintenance",
+    "vehicle_insurance",
+    "toll_charges",
+    "flights_trains",
+    "other"
+  ],
+  "housing": [
+    "rent",
+    "mortgage",
+    "property_tax",
+    "home_maintenance",
+    "furniture_appliances",
+    "hoa_society_fees",
+    "other"
+  ],
+  "utilities": [
+    "electricity",
+    "water",
+    "cooking_gas",
+    "wifi_internet",
+    "mobile_recharge",
+    "trash_collection",
+    "other"
+  ],
+  "health": [
+    "doctor_consultations",
+    "pharmacy_medicines",
+    "lab_tests",
+    "health_insurance",
+    "fitness_gym",
+    "dental_eyecare",
+    "other"
+  ],
+  "education": [
+    "courses_bootcamps",
+    "books_study_materials",
+    "tuition_school_fees",
+    "certifications",
+    "stationery",
+    "other"
+  ],
+  "family_kids": [
+    "school_daycare",
+    "baby_supplies",
+    "kids_clothing",
+    "toys_games",
+    "pocket_money",
+    "other"
+  ],
+  "entertainment": [
+    "movies_theater",
+    "gaming",
+    "concerts_events",
+    "hobbies",
+    "sports_activities",
+    "other"
+  ],
+  "shopping": [
+    "clothing_footwear",
+    "electronics_gadgets",
+    "home_decor",
+    "gifts",
+    "beauty_accessories",
+    "other"
+  ],
+  "subscriptions": [
+    "streaming_ott",
+    "music_audio",
+    "software_tools",
+    "cloud_storage",
+    "news_magazines",
+    "memberships",
+    "other"
+  ],
+  "personal_care": [
+    "haircut_salon",
+    "skincare_cosmetics",
+    "toiletries",
+    "spa_massage",
+    "other"
+  ],
+  "financial": [
+    "investments_savings",
+    "loan_emi",
+    "credit_card_fees",
+    "bank_charges",
+    "taxes",
+    "other"
+  ],
+  "miscellaneous": [
+    "charity_donations",
+    "fines_penalties",
+    "emergency_expenses",
+    "general_other"
+  ]
+}
